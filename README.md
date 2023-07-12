@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Michaelndula/AirBnB_clone/blob/master/65f4a1dd9c51265f49d0.png?raw=true" alt="HolbertonBnB logo">
+  <img src="https://github.com/Umeyakassim/AirBnB_clone/blob/master/65f4a1dd9c51265f49d0.png?raw=true" alt="HolbertonBnB logo">
 </p>
 
 <h1 align="center">HolbertonBnB</h1>
@@ -281,4 +281,4 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Michael Ndula** <[Michaelndula](https://github.com/Michaelndula)>
+* **Umeya Kassim** <[UmeyaKassim](https://github.com/UmeyaKassim)>
